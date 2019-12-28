@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=p-MUBLOEkCs&t=424s
 i created a class named "Model". i'm gonna use this to keep data of my users that i get from api.
 then i create _MyState abstract class. this is to keep a list of my user model and define actions. the you can run this command 
 flutter packages pub run build_runner watch so mobx will create a file for you. add this file using "part". create MyState class and then define an object of your class names myState.
-this object i accessible by importing this file to any widget so you can access your state anywhere in your program.
+this object is accessible by importing this file to any widget so you can access your state anywhere in your program.
 notice that i use http to get json over api and then i update my state and that is the "users" which is a list and i return that list in my action.
 
 ![alt text](https://raw.githubusercontent.com/amirbayat98/flutter_mobx_futurebuilder/code/PicsTutorial/myState.PNG)
