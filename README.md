@@ -3,6 +3,10 @@ how to use mobx and futurebuilder in flutter
 this is how you can get some json data over an api and show them in your app using mobx and future builder.
 this an intermediate tutorial so you need to be familiar with dart and flutter
 
+before you start i recommend to watch these videos :
+https://www.youtube.com/watch?v=EwHMSxSWIvQ
+https://www.youtube.com/watch?v=p-MUBLOEkCs&t=424s
+
 # step 1
 # install dependencies
 
